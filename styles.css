@@ -33,11 +33,11 @@ button {
 }
 
 #increment-btn {
-    background: darkred;
+    background: rgb(192, 78, 97);
 }
 
 #save-btn {
-    background: darkgreen;
+    background: rgb(65, 19, 38);
 }
 
 #counter-panel {
